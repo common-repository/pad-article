@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pad_article\n"
+"POT-Creation-Date: 2012-11-10 01:12+0100\n"
+"PO-Revision-Date: 2012-11-10 01:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: hilflo <florian.hillion@sfr.fr>\n"
+"Language: french\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e;_c\n"
+"X-Poedit-Basepath: C:\\Users\\florian\\Desktop\\pad_article\\pad_article\\\n"
+"Plural-Forms: nplural>2;\n"
+"X-Poedit-SearchPath-0: C:\\Users\\florian\\Desktop\\pad_article"
+"\\pad_article\n"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:194
+msgid "more info"
+msgstr "Informations détaillées"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:195
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:250
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:177
+msgid "Version"
+msgstr "Version"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:196
+msgid "Release Date"
+msgstr "Date de sortie"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:197
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:205
+msgid "OS supported"
+msgstr "Système d'exploitations"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:198
+msgid "Lang supported"
+msgstr "Langues"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:199
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:264
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:195
+msgid "Licence"
+msgstr "Licence"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:201
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:203
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:262
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:200
+msgid "Price"
+msgstr "Prix"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:205
+msgid "Downloaded"
+msgstr "Téléchargement"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:206
+msgid "editor"
+msgstr "Editeur"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:208
+msgid "download"
+msgstr "Télécharger"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:216
+msgid "buy"
+msgstr "Acheter"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:247
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:182
+msgid "Short description"
+msgstr "Courte description"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:252
+#, fuzzy
+msgid "os supported"
+msgstr "Système d'exploitations"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:254
+#, fuzzy
+msgid "Language supported"
+msgstr "Langues supportées"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:256
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:229
+msgid "Screenshot"
+msgstr "Capture d'écran"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:258
+#, fuzzy
+msgid "Download url"
+msgstr "Téléchargement"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:260
+#, fuzzy
+msgid "Order url"
+msgstr "Lien d'achat"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:266
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:256
+msgid "Editor"
+msgstr "Editeur"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:268
+#, fuzzy
+msgid "Editor url"
+msgstr "Editeur"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/index.php:270
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:249
+msgid "Release date"
+msgstr "Date de sortie"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:15
+msgid "Options saved."
+msgstr "Options sauvegardés"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:75
+msgid "article added"
+msgstr "article ajouté"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:79
+msgid "This sofware already exist"
+msgstr "Ce logiciel existe déjà"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:89
+msgid "auto publish sofwtare"
+msgstr "Publier automatiquement l'article"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:90
+msgid "auto update software data"
+msgstr "Mise à jour automatique de la fiche logiciel"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:91
+msgid "auto update description and short description"
+msgstr "Mise à jour auomatique des descriptions courtes et longues"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:92
+msgid "Regnow affiliate ID"
+msgstr "Numéro d'affiliés Regnow"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:94
+msgid "update optionz"
+msgstr "Mettre à jour les options"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:97
+msgid ""
+"If you choose to auto update software, we recommend you to use a cache plugin"
+msgstr ""
+"Si vous décidez de mettre à jour automatiquement les logiciels, nous vous "
+"recommandons d'utiliser un système de cache"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:100
+msgid "how_to"
+msgstr "Comment faire"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:101
+msgid "to show the template sofwtare, open you single.php file and replace"
+msgstr ""
+"Pour afficher le template spécifique au logicieln ouvrez single.php et "
+"remplacez"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:103
+msgid "by"
+msgstr "par"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:109
+msgid ""
+"Want to have a complete software repository portal, try <a href=\"http://www."
+"allsoft.fr/plugin/pad-article-plus/\" target=\"_blank\">PAD article Plus</"
+"a>, a plugin + a themes for wordpress"
+msgstr ""
+"Vous voulez un portail  complet de logiciel, essayez <a href=\"http://www."
+"allsoft.fr/plugin/pad-article-plus/\" target=\"_blank\">PAD article Plus</"
+"a>, un plugin et un thème pour wordpress"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:112
+msgid "create article"
+msgstr "Créer un article"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:113
+msgid "find a pad file"
+msgstr "Trouvez un fichier PAD"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:131
+msgid "pad file url"
+msgstr "URL du fichier PAD"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:134
+msgid "prefill the form"
+msgstr "Préremplir le formulaire"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:168
+msgid "category"
+msgstr "Catégorie"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:172
+msgid "software name"
+msgstr "Nom du logiciel"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:186
+msgid "Long description"
+msgstr "Longue description"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:190
+msgid "Keywords"
+msgstr "Mots clés"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:224
+msgid "Languages supported"
+msgstr "Langues supportées"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:234
+msgid "Order link"
+msgstr "Lien d'achat"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:239
+msgid "Regnow Product ID"
+msgstr "ID regnow du produit"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:244
+msgid "download link"
+msgstr "Lien de téléchargement"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:261
+msgid "Website url"
+msgstr "Site web"
+
+#: C:\Users\florian\Desktop\pad_article\pad_article/pad_admin.php:267
+msgid "Create article"
+msgstr "Créer l'article"
+
+#~ msgid "OS supportded"
+#~ msgstr "Systèmes d'exploitations"
+
+#~ msgid "Lang supporetd"
+#~ msgstr "Langues"
